@@ -25,7 +25,7 @@ I created this tool so that everyone in **The Casually Hardcore** (WoW: Forever)
 
 ## 🚀 How to Run (Windows)
 
-1. Go to the **[Releases](https://github.com)** page and download the latest `.zip` file.
+1. Go to the **[Releases](https://github.com/Arkansadave/Casual-Hardcore-Guild-Tool/releases)** page and download the latest `.zip` file.
 2. Extract the `.zip` into its own folder on your PC (so `guild_cache.json` can save next to the `.exe`).
 3. Double-click **`Casual_Hardcore_Guild_Tool.exe`** to launch.
    * *First-time launch tip:* Because this is a custom guild app without a paid Microsoft signing certificate, Windows SmartScreen may show a *"Windows protected your PC"* popup. Click **More info** → **Run anyway** (Windows will remember this and won't ask again).
