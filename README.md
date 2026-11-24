@@ -3,7 +3,7 @@
 I created this tool so that everyone in **The Casually Hardcore** (WoW: Forever) can easily see more about the rest of our guild—what classes and specs people are playing, what gear and professions they have, and who is eligible to team up for dungeons!
 
 ## 📥 Download Latest Version
-👉 **[Download the Latest Release Here](https://github.com/Arkansadave/Casual-Hardcore-Guild-Tool/releases/tag/v1.0.0)**
+👉 **[Download the Latest Release Here](https://github.com/Arkansadave/Casual-Hardcore-Guild-Tool/releases/latest)**
 
 <img width="2568" height="1408" alt="image" src="https://github.com/user-attachments/assets/6c845450-203a-4ca5-88de-7db2d6cb5d4d" />
 <img width="2568" height="1408" alt="image" src="https://github.com/user-attachments/assets/8c68ec82-4c59-4c48-8109-ecf6990021f0" />
